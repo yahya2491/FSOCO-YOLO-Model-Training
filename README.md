@@ -14,13 +14,7 @@ This project focuses on training a YOLO (You Only Look Once) model using the FSO
 
   -Exporting trained weights for deployment
 
-# Future Improvements
 
-  -Fine-tune the model with additional datasets
-
-  -Optimize inference speed
-
-  -Deploy the model for real-time object detection
 
   # Dataset Distribution
   
@@ -31,6 +25,15 @@ This project focuses on training a YOLO (You Only Look Once) model using the FSO
   ![image](https://github.com/user-attachments/assets/be05ad7a-40f4-4274-ab28-5763a38f7f86)
 
   ![image](https://github.com/user-attachments/assets/991a6c41-f30d-48dd-89d8-50976cdef14a)
+
+
+  # Future Improvements
+
+  -Fine-tune the model with additional datasets
+
+  -Optimize inference speed
+
+  -Deploy the model for real-time object detection
 
 
 
